@@ -1,3 +1,6 @@
+
+//right-aligned pyramid
+
 #include <cs50.h>
 #include <stdio.h>
 

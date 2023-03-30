@@ -1,3 +1,8 @@
+//Background
+//Suppose you are eating out at a restaurant with a friend and want to split the bill evenly. 
+//You may want to anticipate the amount you’ll owe before the bill arrives with tax added. 
+//In this problem, you’ll complete a function to calculate the amount each of you owes based on the bill amount, the tax, and the tip.
+
 // Calculate your half of a restaurant bill
 // Data types, operations, type casting, return value
 

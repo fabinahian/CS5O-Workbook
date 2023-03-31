@@ -1,3 +1,14 @@
+// Implement calculate_quarters in such a way that the function calculates (and returns as an int) 
+// how many quarters a customer should be given if they’re owed some number of cents. For instance, 
+// if cents is 25, then calculate_quarters should return 1. If cents is 26 or 49 (or anything in between, 
+// then calculate_quarters should also return 1. If cents is 50 or 74 (or anything in between), 
+// then calculate_quarters should return 2. And so forth.
+                                                                               
+// Implement calculate_dimes in such a way that the function calculates the same for dimes.
+// Implement calculate_nickels in such a way that the function calculates the same for nickels.
+// Implement calculate_pennies in such a way that the function calculates the same for pennies.
+
+
 #include <cs50.h>
 #include <stdio.h>
 

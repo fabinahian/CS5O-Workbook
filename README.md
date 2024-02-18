@@ -1,4 +1,4 @@
-    Author's Thought
+    Author's Thoughts
 
 Welcome to my CS50 repository! This is where I'll be organizing all the programming exercises I complete as part of the CS50 course. As I work through the course material, I'll be using this repository to store my solutions to various problem sets, assignments, and challenges.
 

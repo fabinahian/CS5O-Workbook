@@ -6,7 +6,7 @@ Each folder in this repository corresponds to a different week or module in the 
 
 I'm hoping that this repository will serve as a helpful resource not just for myself, but for other CS50 students who might be struggling with the same exercises. Please feel free to browse through my code, leave comments, and share your own solutions as well. Let's learn together!
 
-    Source
+    Sources
     
 1: https://cs50.harvard.edu/x/2023/
 
